@@ -1,16 +1,4 @@
-﻿/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**			         BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				          PROGRAMLAMAYA GİRİŞİ DERSİ
-**	
-**				ÖDEV NUMARASI…...:NDP 2.ODEV
-**				ÖĞRENCİ ADI...............:SERHAT HAR
-**				ÖĞRENCİ NUMARASI.:G231210040
-**				DERS GRUBU…………:2.A
-****************************************************************************/
-
-using System;
+﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
 
